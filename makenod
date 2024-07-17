@@ -1,0 +1,3 @@
+steps:
+  - uses: nodenv/actions/setup-nodenv@v3
+  - run: nodenv version # nodenv is in https://github.com/omidk56/TelegramBots
